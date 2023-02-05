@@ -12,7 +12,7 @@
 
 🎯 My Goal is to be a proffesional **Blockchain Developer**.
 
-✨ I love to create different types of **contracts**.
+
 
       
 <td >
