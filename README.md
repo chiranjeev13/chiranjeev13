@@ -10,7 +10,7 @@
 
 🌱I am currently learning **Solidity+Hardhat** interested in **Web3.0 Development**.
 
-🎯 My Goal is to be a proffesional **Blockchain Developer**.
+🎯 My Goal is to be a professional **Blockchain Developer**.
 
 
 
