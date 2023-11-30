@@ -7,9 +7,6 @@
     <td valign="center">
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-
-🌱I am currently learning **Solidity+Hardhat** interested in **Web3.0 Development**.
-
 🎯 My Goal is to be a professional **Blockchain Developer**.
       
 ## **1 Commit per Day keep Bugs away 🐞**
