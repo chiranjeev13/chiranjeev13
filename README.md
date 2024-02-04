@@ -6,9 +6,6 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-🎯 My Goal is to be a professional **Blockchain Developer**.
-      
 ## **1 Commit per Day keep Bugs away 🐞**
 
 
