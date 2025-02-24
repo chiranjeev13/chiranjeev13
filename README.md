@@ -49,11 +49,20 @@
 
 
 ## Stats📈
+<!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjeev13&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true%22%20alt=%22chiranjeev13" /> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev13&theme=highcontrast&hide_border=true" alt="chiranjeev13" />
-</p>
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=chiranjeev13&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+
+<p></p>
+<div align = "center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeev13&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
+  <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+
+</div>
+ Ayoo Please Accept this PR!
+<div align="center">
 
 
   
