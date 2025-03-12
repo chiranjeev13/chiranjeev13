@@ -11,11 +11,7 @@
 
 
       
-<td >
-      <a href="https://app.daily.dev/node_cm"><img src="https://api.daily.dev/devcards/0c8e0231e5bd46c58fdfd9901df421f0.png?r=82u" width="300" alt="Chiranjeev Mishra's Dev Card"/></a>
-    </td>
-    
-  </tr>
+
   </table>
  
 
