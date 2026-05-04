@@ -1,7 +1,7 @@
 # Hi, I'm Chiranjeev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## About Me🧑🏼‍💻
-Passionate blockchain and Web3 developer focused on building secure and innovative solutions. I’ve worked on projects like modular smart contract wallets, DAO platforms, and zkSNARK-based applications, leveraging technologies like Solidity, TypeScript, Rust, and Circom.
+Passionate blockchain and Web3 developer focused on building secure and innovative solutions. I’ve worked on projects like modular smart contract wallets, DAO platforms, and zkSNARK-based applications, leveraging technologies like Solidity, TypeScript, Go, and Circom.
 
 I’m an open-source enthusiast and love contributing to the blockchain community. Along the way, I’ve won hackathons, created developer tools, and helped bring decentralized ideas to life. My GitHub is where I share what I’m building—whether it’s a new project, a library, or ideas to explore.
 
